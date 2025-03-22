@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... [https://rawat_saurabh.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
-- 👨‍🎓 M. Tech CSE(IS) @ NIT Warangal '25.
+- 👨‍🎓 Master of Computer Applications-CSE @ NIT Warangal '26.
 
 
 
