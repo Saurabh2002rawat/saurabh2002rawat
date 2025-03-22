@@ -50,11 +50,7 @@ Here are some ideas to get you started:
 - 🙌 Highest Qualification: B. TECH CSE [2022]
 - 👨‍🎓 M. Tech CSE(IS) @ NIT Warangal '25.
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sadam452&theme=jolly&fire=DD2727)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sadam452&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en&border_radius=5">
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadam452)](https://github.com/anuraghazra/github-readme-stats)
