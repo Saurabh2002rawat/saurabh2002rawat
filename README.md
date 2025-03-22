@@ -4,7 +4,7 @@
 **Saurabh2002rawat/saurabh2002rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ ✨🤝✔️ ⚒️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -41,18 +41,15 @@ Here are some ideas to get you started:
 </div>
 
 
-- 👋 Hi, I’m @Sadam452
+- 👋 Hi, I’m @saurabh_rawat
 - 👀 I’m interested in Web development, Machine Learning, IoT, AI, Security, Android Development, Software Development...
-- 💞️ I’m looking to collaborate on C & C++ projects...
+- 💞️ I’m looking to collaborate on Java & C++ projects...
 - 🕕 Having Good hold on C, C++, Python, & Java programming languages, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... https://sadam.live or mail me at hussainganie388@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
 - 👨‍🎓 M. Tech CSE(IS) @ NIT Warangal '25.
-- ✨ Ex - Software Developer(Technical Lead) at IIT Bombay Working on [LEAP Post Editing Tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
-- 🤝 Computer Science Subject Matter Expert at [TutorPoint](https://tutorpoint.in/)
-- ✔️ Contributor [Project Udaan](https://udaanproject.org/AboutUs)
-- ⚒️ Currently building [MobiGuard](https://github.com/Sadam452/MobiGuard)
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sadam452&theme=jolly&fire=DD2727)](https://git.io/streak-stats)
 
