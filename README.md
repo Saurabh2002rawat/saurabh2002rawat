@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on Java & C++ projects...
 - 🕕 Having Good hold on C, C++, Python, & Java programming languages, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
-- 📫 How to reach me ... [https://sadam.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
+- 📫 How to reach me ... [https://rawat_saurabh.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
 - 👨‍🎓 M. Tech CSE(IS) @ NIT Warangal '25.
 
