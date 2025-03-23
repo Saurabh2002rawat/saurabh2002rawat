@@ -1,6 +1,17 @@
-## Hi there 👋
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Sadam452&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  </div>
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+</div>
+
 
 <!--
+## Hi there 👋
 **Saurabh2002rawat/saurabh2002rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,16 +40,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sadam452&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  </div>
-<div align="center">
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-</div>
+
 
 
 - 👋 Hi, I’m @saurabh_rawat
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 - 🕕 Having Good hold on C, C++, Python, & Java programming languages, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... [https://rawat_saurabh.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
-- 🙌 Highest Qualification: B. TECH CSE [2022]
+- 🙌 Highest Qualification: BCA@GEU'22
 - 👨‍🎓 Master of Computer Applications-CSE @ NIT Warangal '26.
 
 
