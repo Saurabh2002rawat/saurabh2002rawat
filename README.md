@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://x.com/saurabhRawat2k2">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge" width="50px" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge" />
   </a>
   <a href="https://www.instagram.com/saurabh2002rawat/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Sadam452&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-
+<br />
 - 👋 Hi, I’m @saurabh_rawat
 - 👀 I’m interested in Web development, Game Development, IoT, AI, Security, Android Development, Software Development...
 - 🕕 Having Good hold on Java, C++, C, Python, web development, & databases.
