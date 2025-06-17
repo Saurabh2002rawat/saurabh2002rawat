@@ -9,9 +9,6 @@
 
 
 <!--
-## Hi there 👋
-**Saurabh2002rawat/saurabh2002rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
  ✨🤝✔️ ⚒️ ✍️
 - 🔭 I’m currently working on ...
@@ -32,11 +29,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://x.com/saurabhRawat2k2">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/ width="50px" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge" width="50px" />
   </a>
   <a href="https://www.instagram.com/saurabh2002rawat/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
+<a hre="https://leetcode.com/u/_Torpedo_/">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
 
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadam452&style=flat-square&color=blue" alt=""/>
