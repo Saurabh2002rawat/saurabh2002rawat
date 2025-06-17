@@ -13,7 +13,7 @@
 **Saurabh2002rawat/saurabh2002rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- ✨🤝✔️ ⚒️
+ ✨🤝✔️ ⚒️ ✍️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 </div>
 
 - 👋 Hi, I’m @saurabh_rawat
-- 👀 I’m interested in Web development, Machine Learning, IoT, AI, Security, Android Development, Software Development...
-- 💞️ I’m looking to collaborate on Java & C++ projects...
-- 🕕 Having Good hold on C, C++, Python, & Java programming languages, web development, & databases.
+- 👀 I’m interested in Web development, Game Development, IoT, AI, Security, Android Development, Software Development...
+- 🕕 Having Good hold on Java, C++, C, Python, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... [https://rawat_saurabh.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
 - 🙌 Highest Qualification: BCA@GEU'22
 - 👨‍🎓 Master of Computer Applications-CSE @ NIT Warangal '26.
+- 💞️ Living Life to the Fullest ... 😄
 
 
 
@@ -63,3 +63,7 @@ Here are some ideas to get you started:
 Sadam452/Sadam452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### 😄 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
