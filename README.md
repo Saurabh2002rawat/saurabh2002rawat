@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadam452&style=flat-square&color=blue" alt=""/>
   </div>
-</div>
 <br />
+</div>
 - 👋 Hi, I’m @saurabh_rawat
 - 👀 I’m interested in Web development, Game Development, IoT, AI, Security, Android Development, Software Development...
 - 🕕 Having Good hold on Java, C++, C, Python, web development, & databases.
