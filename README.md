@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Web development, Game Development, IoT, AI, Security, Android Development, Software Development...
 - 🕕 Having Good hold on Java, C++, C, Python, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
-- 📫 How to reach me ... [https://rawat_saurabh.live](https://saurabh2002rawat.github.io/Resume-Portfolio/) or mail me at saurabh2002awat@gmail.com
+- 📫 How to reach me ... [https://rawat_saurabh.live](https://resume-portfolio-blond-five.vercel.app/) or mail me at saurabh2002awat@gmail.com
 - 🙌 Highest Qualification: BCA@GEU'22
 - 👨‍🎓 Master of Computer Applications-CSE @ NIT Warangal '26.
 - 💞️ Living Life to the Fullest ... 😄
