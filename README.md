@@ -84,6 +84,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&layout=compact&theme=radical" height="150"/>
 </div>
 
