@@ -19,9 +19,10 @@
   <a href="https://www.instagram.com/saurabh2002rawat/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/_Torpedo_/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <a href="https://leetcode.com/_torpedo_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+  
 </div>
 
 <!-- Visitor Counter -->
@@ -32,11 +33,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 💡 **Interests:** Web Development, Game Development, IoT, AI, Security, Android, and Software Development.  
-- 🛠 **Tech Skills:** Java, C++, C, Python, PHP, JavaScript, HTML, CSS, Databases, Data Structures & Algorithms.  
-- 🎓 **Education:** BCA @ GEU '22 | MCA (CSE) @ NIT Warangal '26.  
-- 📬 **Reach Me:** [Portfolio Website](https://resume-portfolio-blond-five.vercel.app/) | Email: **saurabh2002awat@gmail.com**  
-- 😄 **Fun Fact:** Living life to the fullest 🚀
+- 💡 **Interests:** Web Development, DSA, Game Development, Android, and Software Development.  
+- 🛠 **Tech Skills:** Java, C++, C, Python, PHP, JavaScript, HTML, CSS and Databases.  
+- 🎓 **Education:** BCA @GEU'22 | MCA-CSE @NIT-W'26.  
+- 📬 **Reach Me:** [https://rawat_saurabh.live](https://resume-portfolio-blond-five.vercel.app/) | Email: **saurabh2002awat@gmail.com**  
+- 😄 **In Short:** Living life to the fullest 🚀
 
 ---
 
@@ -44,9 +45,9 @@
 <div align="center">
   
 **Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -63,26 +64,36 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Competitive Programming**  
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+**Coding & Programming**  
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 </div>
 
 ---
 
+### 🚀 LeetCode Stats
+
+<!-- LeetCode Stats -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://leetcode.com/u/_Torpedo_/">
+    <img src="https://leetcard.jacoblin.cool/_Torpedo_?theme=light&font=Roboto" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
 ### 📊 GitHub Stats
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&hide_border=true" alt="GitHub stats" height="150"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 40px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&hide_border=true" alt="GitHub stats" height="170"/>
   </a>
 
   <!-- GitHub Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&hide_border=true" alt="Top Langs" height="150"/>  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 40px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&layout=compact&hide_border=true" alt="Top Langs" height="200"/>  
   </a>
 
 </div>
