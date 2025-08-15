@@ -87,6 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&layout=compact&theme=radical" height="150"/>
 </div>
 
+<div align="center"> <!-- GitHub Top Languages Card --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat" alt="Top Langs"/> </a>
+
 ---
 
 ### 💬 Random Dev Quote
