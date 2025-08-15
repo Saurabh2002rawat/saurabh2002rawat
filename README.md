@@ -74,14 +74,14 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-  <!-- GitHub Stats & Top Languages Side by Side -->
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&show_icons=true&theme=radical" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
   </a>
-  
+
+  <!-- GitHub Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&layout=compact&theme=radical" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat&layout=compact&theme=default&hide_border=true" alt="Top Langs" height="150"/>
   </a>
 
 </div>
