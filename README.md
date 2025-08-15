@@ -76,7 +76,7 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2002rawat" alt="GitHub stats" />
   </a>
 
   <!-- GitHub Top Languages Card -->
@@ -87,7 +87,8 @@
 </div>
 
 
-<div align="center"> <!-- GitHub Top Languages Card --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat" alt="Top Langs"/> </a>
+<div align="center"> <!-- GitHub Top Languages Card --> <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2002rawat" alt="Top Langs"/> </a>
 
 ---
 
