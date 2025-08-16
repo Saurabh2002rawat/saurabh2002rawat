@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center" style="position: relative;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20there!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hi%20there!%20👋&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <!-- Profile GIF -->
